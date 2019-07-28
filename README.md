@@ -14,9 +14,9 @@ python index.py
 
 ```
 plotly-dash-multipage-template
-│   README.md
 │   index.py
 |   app.py
+|   mydatastore.csv
 │
 └───apps
 │   │   dashboard.py
